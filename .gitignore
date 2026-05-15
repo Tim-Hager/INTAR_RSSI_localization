@@ -23,4 +23,4 @@ venv/
 # General #
 ############
 .DS_Store
-.code/
+code/
