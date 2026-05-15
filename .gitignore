@@ -23,4 +23,5 @@ venv/
 # General #
 ############
 .DS_Store
-code/
+code/config.yaml
+code/wandb/
