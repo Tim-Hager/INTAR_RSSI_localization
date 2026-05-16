@@ -22,15 +22,13 @@
 [x] Setup training loop with optimizer and criterion (loss function)  
 [x] Classification & regression in one training (added to one lost-function for example or just parallel)? Might be worth a try  
 [x] Evaluation of model  
-### [ ] Model(s)
-[ ] Create architecture  
-[ ] Define hyperparameters (use configuration), flexible architecture  
-[ ] Adapt training & evalation if necessary  
-[ ] Autoencoder with classification & regression head  
-[ ] Maybe contrastive learning  
-### [ ] Hyperparameter optimization
-[ ] Simple optimization algorithm already included  
-[ ] Maybe Bayesian Optimization?  
+### [x] Model(s)
+[x] Create architecture  
+[x] Define hyperparameters (use configuration), flexible architecture  
+[x] Adapt training & evaluation if necessary  
+[x] Autoencoder with classification & regression head
+### [x] Hyperparameter optimization
+[x] Bayesian Optimization
 ### [ ] Floor per building
 [ ] Possibility of switching from 5 floors in general to classifyfing each building floor itself (due to height differences etc.)  
-[ ] Add parameter to config  
+[ ] Add parameter to config
